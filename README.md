@@ -1,8 +1,36 @@
-👋 Hi, I’m @Jezabel-sh  
-👀 I’m interested in Python programming, machine learning, AI, and data analysis.  
-🌱 I’m currently learning about machine learning algorithms and their applications in data analysis.  
-💞️ I’m looking to collaborate on projects involving data analysis and machine learning.  
-📫 How to reach me: Feel free to message me on GitHub or connect with me on LinkedIn.  
-😄 Pronouns: She/Her  
-⚡ Fun fact: I enjoy traveling and exploring new places.
+<h1 align="center">🌟 Hi there! 🌟</h1>
+
+<p align="center">
+  <img src="https://via.placeholder.com/150" alt="Profile image" style="border-radius: 50%; width: 150px;">
+</p>
+
+<h3 align="center">👀 I’m interested in:</h3>
+<ul>
+  <li>Python programming</li>
+  <li>Machine learning</li>
+  <li>AI</li>
+  <li>Data analysis</li>
+</ul>
+
+<h3 align="center">🌱 Currently learning:</h3>
+<p align="center">
+  Machine learning algorithms and their applications in data analysis.
+</p>
+
+<h3 align="center">💞️ Looking to collaborate on:</h3>
+<p align="center">
+  Projects involving data analysis and machine learning.
+</p>
+
+<h3 align="center">📫 How to reach me:</h3>
+<p align="center">
+  <a href="https://github.com/username">GitHub</a> | <a href="https://linkedin.com/in/username">LinkedIn</a>
+</p>
+
+<h3 align="center">😄 Pronouns:</h3>
+<p align="center">She/Her</p>
+
+<h3 align="center">⚡ Fun fact:</h3>
+<p align="center">I enjoy traveling and exploring new places.</p>
+
 
