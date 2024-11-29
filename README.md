@@ -1,4 +1,4 @@
-<h1 align="left">🌟 Hi there! 🌟</h1>
+<h1 align="left">☀️​ Hi there! ☀️​</h1>
 
 <h3 align="left">👀 I’m interested in:</h3>
 <ul>
