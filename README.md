@@ -32,4 +32,4 @@
 </p>
 
 <!-- Add a GIF under the fun fact -->
-<img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Dancing Robot" width="200" align="left"/>
+<img src="[https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif](https://giphy.com/stickers/sesamestreet-transparent-sesame-street-cookie-monster-lovLgBpqzAHBvG1kI5)" width="200" align="left"/>
