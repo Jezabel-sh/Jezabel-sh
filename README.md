@@ -10,7 +10,7 @@
 
 <h3 align="left">🏴‍☠️ Currently learning:</h3>
 <p align="left">
-  Machine learning algorithms and their applications in data analysis.
+  Exploring machine learning and deep learning algorithms, model training, and their applications in data analysis.
 </p>
 
 <h3 align="left">💞️ Looking to collaborate on:</h3>
