@@ -32,4 +32,4 @@
 </p>
 
 <!-- Add a GIF under the fun fact -->
-<img src="[https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif](https://giphy.com/stickers/sesamestreet-transparent-sesame-street-cookie-monster-lovLgBpqzAHBvG1kI5)" width="200" align="left"/>
+<img src="(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhwMnVnczl4c2o1YW14cG9kNDl2cXdic3c4d3luc2F3OGwxbDIwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lovLgBpqzAHBvG1kI5/giphy.webp)" width="200" align="left"/>
