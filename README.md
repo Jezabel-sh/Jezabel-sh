@@ -20,7 +20,8 @@
 
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
-  <a href="[https://github.com/username](https://github.com/Jezabel-sh)">GitHub</a> | <a [href="https://linkedin.com/in/username](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)">LinkedIn</a>
+<a href="https://github.com/Jezabel-sh" target="_blank">GitHub</a> | 
+<a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="_blank">LinkedIn</a>
 </p>
 
 <h3 align="left">🚀 Fun fact:</h3>
