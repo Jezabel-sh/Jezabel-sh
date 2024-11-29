@@ -23,8 +23,5 @@
   <a href="https://github.com/username">GitHub</a> | <a href="https://linkedin.com/in/username">LinkedIn</a>
 </p>
 
-<h3 align="left">😄 Pronouns:</h3>
-<p align="left">She/Her</p>
-
 <h3 align="left">⚡ Fun fact:</h3>
 <p align="left">I enjoy traveling and exploring new places.</p>
