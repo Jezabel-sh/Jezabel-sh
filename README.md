@@ -3,7 +3,7 @@
 <h3 align="left">👀 I’m interested in:</h3>
 <ul>
   <li>Python programming</li>
-  <li>Machine learning</li>
+  <li>Machine and deep learning</li>
   <li>AI</li>
   <li>Data analysis</li>
 </ul>
