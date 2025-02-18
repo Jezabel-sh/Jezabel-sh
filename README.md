@@ -64,7 +64,7 @@
   <p>
     🚚 <a href="https://github.com/Jezabel-sh/logistics-optimizer">Logistics Optimizer</a> - Python-based system for optimizing delivery routes<br>
     ♻️ <a href="https://github.com/Jezabel-sh/garbage_classification">Garbage Classification</a> - Deep learning model for waste classification<br>
-    🎮 <a href="https://github.com/Jezabel-sh/python-games">Python Games Collection</a> - Collection of interactive Python games
+    🎮 <a href="https://github.com/Jezabel-sh/minigames_collection">Python Games Collection</a> - Collection of interactive Python games
   </p>
 
   <h2>🤝 Let's Connect!</h2>
