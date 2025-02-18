@@ -1,7 +1,7 @@
 # ¡Hola! 👋 I'm Jezabel
 
 <div align="center">
-  <img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhwMnVnczl4c2o1YW14cG9kNDl2cXdic3c4d3luc2F3OGwxbDIwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lovLgBpqzAHBvG1kI5/giphy.webp](https://giphy.com/stickers/SiemensHealthineers-data-big-rubiscube-IUNycHoVqvLDowiiam)" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExIUNycHoVqvLDowiiam/giphy.gif" width="200"/>
 
   <h2>🚀 About Me</h2>
   <p>
@@ -19,8 +19,7 @@
   <h3>💻 Programming Languages</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   </p>
 
   <h3>🤖 ML/DL</h3>
@@ -37,6 +36,12 @@
     <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
     <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
     <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  </p>
+
+  <h3>💾 Databases</h3>
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   </p>
 
   <h3>🛠️ Tools & Technologies</h3>
@@ -60,14 +65,6 @@
     🚚 <a href="https://github.com/Jezabel-sh/logistics-optimizer">Logistics Optimizer</a> - Python-based system for optimizing delivery routes<br>
     ♻️ <a href="https://github.com/Jezabel-sh/garbage_classification">Garbage Classification</a> - Deep learning model for waste classification<br>
     🎮 <a href="https://github.com/Jezabel-sh/python-games">Python Games Collection</a> - Collection of interactive Python games
-  </p>
-
-  <h2>📊 Activity</h2>
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=Jezabel-sh&theme=radical&row=1&column=6" alt="Trophies"/>
-  </p>
-  <p>
-    <img src="https://streak-stats.demolab.com?user=Jezabel-sh&theme=radical" alt="GitHub Streak"/>
   </p>
 
   <h2>🤝 Let's Connect!</h2>
