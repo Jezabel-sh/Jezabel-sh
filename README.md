@@ -1,7 +1,7 @@
 # ¡Hola! 👋 I'm Jezabel
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZuajdnNDNuaHpteHkzZ2h6aGhpMWZlZ2tkaDB0YzNhenJhZTg4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2bvcIZuvnBkWxb68Bx/giphy.gif" width="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZuajdnNDNuaHpteHkzZ2h6aGhpMWZlZ2tkaDB0YzNhenJhZTg4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2bvcIZuvnBkWxb68Bx/giphy.gif" width="200"/>
 
   <h2>🚀 About Me</h2>
   <p>
