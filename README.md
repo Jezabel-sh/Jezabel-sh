@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Jezabel
+# Hi! 🌻 I'm Jezabel
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZuajdnNDNuaHpteHkzZ2h6aGhpMWZlZ2tkaDB0YzNhenJhZTg4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2bvcIZuvnBkWxb68Bx/giphy.gif" width="200"/>
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   </p>
 
-  <h3>📊 Data Science</h3>
+  <h3>🔎​ Data Science</h3>
   <p>
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
     <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
@@ -67,7 +67,7 @@
     🎮 <a href="https://github.com/Jezabel-sh/minigames_collection">Python Games Collection</a> - Collection of interactive Python games
   </p>
 
-  <h2>🤝 Let's Connect!</h2>
+  <h2>🦖 Let's Connect!</h2>
   <p>
     <a href="https://jezabel-sh.github.io/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
