@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"/>
   </p>
 
-  <h2>☀️ Currently Learning</h2>
+  <h2>🔆​ Currently Learning</h2>
   <p>
     • Advanced machine learning algorithms<br>
     • Deep learning architectures<br>
