@@ -1,4 +1,4 @@
-# ¡Hola! 👋 I'm Jezabel
+# Hi! 👋 I'm Jezabel
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZuajdnNDNuaHpteHkzZ2h6aGhpMWZlZ2tkaDB0YzNhenJhZTg4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2bvcIZuvnBkWxb68Bx/giphy.gif" width="200"/>
